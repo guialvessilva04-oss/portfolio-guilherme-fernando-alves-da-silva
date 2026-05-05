@@ -13,7 +13,7 @@
 ### 👨‍💻 Sobre
 Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistema na Univercidade Cidade de São Paulo(UNICID). Sou interessado na resolução de problemas através da tecnologia e possuo foco em Desenvolvimento Backend / Análise de Dados.
  
-* *Habilidades Técnicas:* Python, HTML.
+* *Habilidades Técnicas:* Python.
 * *Habilidades Socioemocionais:* Trabalho em equipe, comunicação assertiva e pensamento crítico.
 * *Experiência/Projetos Relevantes:* Atualmente busco uma oportunidade de estágio, com o intuito de adquirir novos conhecimentos e habilidades, além de colocar em prática as que já possuo.
  
@@ -24,7 +24,6 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistema na U
 #### 💻 Linguagens e Tecnologias
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
  
 #### 🗄️ Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
