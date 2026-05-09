@@ -68,8 +68,3 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistema na U
 ---
  
  
-### 🏗️ Estrutura do Repositório
-Abaixo, a organização deste repositório para facilitar a navegação:
- 
-- root/: Arquivo de apresentação principal.
-- /projeto-nome/: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
