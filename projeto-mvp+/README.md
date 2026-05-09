@@ -17,6 +17,8 @@ Além disso, o sistema permite autenticação de usuários, salvamento de preset
 
 ## 🚀 Tecnologias Utilizadas
 
+- Google AI Studio
+
 ### 🖥️ Front-end
 - **React 19**
 - **TypeScript**
