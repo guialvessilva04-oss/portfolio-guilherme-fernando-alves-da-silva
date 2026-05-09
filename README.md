@@ -37,7 +37,7 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistema na U
 ### 📂 Portfólio de Projetos
  
 #### 🤖 Inteligência Artificial
-| Teachable Machine | Laboratório de Classificação Visual |  |
+| Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Laboratório de Classificação Visual** | Laboratório de Classificação Visual | [Ver Projeto](./projeto-analise-de-imagens/) |
  
