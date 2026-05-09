@@ -63,7 +63,7 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistema na U
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Laboratório de Classificação Visual** | Laboratório de Classificação Visual | [Ver Projeto](./projeto-analise-de-imagens/) |
+| **MVP+** | Web.app para a geração de formas organicas SVG | [Ver Projeto](./projeto-mvp+/) |
  
 ---
  
