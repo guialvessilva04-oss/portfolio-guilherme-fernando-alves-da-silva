@@ -1,9 +1,9 @@
-# 👕 Chatbot de Recomendação de Streetwear - AI Studio
+# Engenharia Reversa - Blobmaker
 
 ## 📝 Descrição do Projeto
-Este projeto consiste no desenvolvimento de um assistente virtual inteligente especializado no nicho de **streetwear**. O objetivo principal é oferecer uma experiência de compra personalizada, auxiliando os usuários a encontrar peças de vestuário, acessórios e calçados que se alinhem ao seu estilo pessoal e preferências estéticas.
+Este projeto consiste no desenvolvimento de um "clone" de uma interface web para a geração de formas SVG. O objetivo principal é replicar todos os elementos da interface original da forma mais precisa possível, afim de aperfeiçoar nosso olhar analítico e assegurar a melhor estratégia para gerar um prompt refinado.
 
-Desenvolvido como parte dos estudos práticos de **Inteligência Artificial (2026)**, o sistema utiliza o modelo **Gemini 1.5** para processar consultas em linguagem natural. O chatbot atua como um consultor de estilo, sendo capaz de sugerir combinações, explicar tendências e recomendar produtos com base em diretrizes de design específicas, como a paleta de cores (Black, Purple, Crimson) definida para a marca.
+Desenvolvido como parte dos estudos práticos de **Inteligência Artificial (2026)**, o sistema utiliza o modelo **Ai Studio** para processar consultas em linguagem natural. A interface gera formas pré-definidas além de dar total liberdado ao usuário para manipulá-la à seu gosto pessoal.
 
 ![Interface de desenvolvimento do Chatbot no AI Studio](https://www.gstatic.com/lamda/images/favicon_v2_192x192.png)
 *Figura 1: Ambiente de configuração e teste do chatbot no Google AI Studio.*
