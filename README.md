@@ -39,9 +39,34 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistema na U
 #### 🤖 Inteligência Artificial
 | Teachable Machine | Laboratório de Classificação Visual |  |
 | :--- | :--- | :---: |
-| **Laboratório de Classificação Visual** |  | [Ver Projeto](./projeto-mvp-svg/) |
+| **Laboratório de Classificação Visual** | Laboratório de Classificação Visual | [Ver Projeto](./projeto-analise-de-imagens/) |
  
 ---
+
+ 
+#### 🤖 Inteligência Artificial
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Batalha de Modelos** | Análise de Modelos de AI | [Ver Projeto](./projeto-batalha-de-modelos-xml/) |
+ 
+---
+
+ 
+#### 🤖 Inteligência Artificial
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Interface SVG** | Processo de "Clonagem" de Web.app para criação de formas SVG | [Ver Projeto](./projeto-engenharia-reversa/) |
+ 
+---
+
+
+#### 🤖 Inteligência Artificial
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Laboratório de Classificação Visual** | Laboratório de Classificação Visual | [Ver Projeto](./projeto-analise-de-imagens/) |
+ 
+---
+ 
  
 ### 🏗️ Estrutura do Repositório
 Abaixo, a organização deste repositório para facilitar a navegação:
