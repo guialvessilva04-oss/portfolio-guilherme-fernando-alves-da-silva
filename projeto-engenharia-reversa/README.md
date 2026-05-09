@@ -1,29 +1,116 @@
-# Engenharia Reversa - Blobmaker
+# 🎨 BlobMaker Clone
 
 ## 📝 Descrição do Projeto
-Este projeto consiste no desenvolvimento de um "clone" de uma interface web para a geração de formas SVG. O objetivo principal é replicar todos os elementos da interface original da forma mais precisa possível, afim de aperfeiçoar nosso olhar analítico e assegurar a melhor estratégia para gerar um prompt refinado.
 
-Desenvolvido como parte dos estudos práticos de **Inteligência Artificial (2026)**, o sistema utiliza o modelo **Ai Studio** para processar consultas em linguagem natural. A interface gera formas pré-definidas além de dar total liberdado ao usuário para manipulá-la à seu gosto pessoal.
+O **BlobMaker Clone** é uma aplicação web interativa desenvolvida para criação e personalização de formas orgânicas animadas (blobs) utilizadas em interfaces modernas, landing pages e projetos de design digital.
 
-![Interface de desenvolvimento do Chatbot no AI Studio](https://www.gstatic.com/lamda/images/favicon_v2_192x192.png)
-*Figura 1: Ambiente de configuração e teste do chatbot no Google AI Studio.*
+O sistema permite gerar blobs dinâmicos com diferentes formatos, animações e estilos visuais, oferecendo uma experiência criativa e intuitiva para designers e desenvolvedores front-end.
+
+Desenvolvido utilizando tecnologias modernas do ecossistema React, o projeto possui foco em:
+
+- 🎨 Experiência visual moderna
+- ⚡ Alta performance de renderização
+- 📱 Responsividade
+- 🧩 Componentização reutilizável
+- 🚀 Desenvolvimento rápido com Vite
+- 🎭 Interfaces animadas e fluidas
+
+O projeto também explora conceitos de animação, manipulação visual e construção de interfaces interativas utilizando bibliotecas modernas do JavaScript/TypeScript.
 
 ## 🚀 Tecnologias Utilizadas
-* **Modelo de IA:** Gemini 1.5 Pro / Flash
-* **Plataforma:** [Google AI Studio](https://aistudio.google.com/)
-* **Técnicas de IA:** Engenharia de Prompt, System Instructions e Personas Dinâmicas.
-* **Integração:** Preparado para suporte a APIs de e-commerce e interfaces web responsivas (HTML5/CSS3).
 
-## 📊 Resultados e Aprendizados
-O projeto permitiu explorar a fronteira entre o design de moda e a inteligência artificial generativa.
-* **Personalização de Persona:** Implementei instruções de sistema que garantem um tom de voz autêntico e alinhado à cultura streetwear.
-* **Filtragem por Atributos:** Aprendi a estruturar prompts para que o modelo priorize recomendações baseadas em cores específicas e categorias de produtos.
-* **Consistência de Resposta:** O assistente demonstrou alta eficácia em manter-se no tópico de moda, evitando desvios para assuntos não relacionados à loja.
+- Google AI Studio
 
-## 🔧 Como Testar
-1. Acesse o projeto através do link de visualização do [Google AI Studio](https://aistudio.google.com/apps/222b1208-db0b-424a-8ab1-38aa4d69ece6).
-2. No painel de chat, interaja com o assistente perguntando por recomendações (Ex: "O que combina com um tênis roxo?").
-3. Observe como as *System Instructions* moldam as sugestões de acordo com o inventário e estilo da marca.
+### 🖥️ Front-end
+- **React 19**
+- **TypeScript**
+- **Vite**
+
+### 🎨 Estilização e UI
+- **Tailwind CSS**
+- **Shadcn/UI**
+- **Lucide React**
+- **Motion**
+
+### 🧰 Utilitários e Ferramentas
+- **Canvas Confetti**
+- **Class Variance Authority**
+- **Clsx**
+- **Tailwind Merge**
 
 ---
-[Voltar ao início](https://github.com/seu-usuario/seu-repositorio)
+
+## ⚙️ Funcionalidades
+
+- ✅ Geração dinâmica de blobs
+- ✅ Personalização visual das formas
+- ✅ Interface responsiva
+- ✅ Componentização moderna
+- ✅ Animações fluidas
+- ✅ Estrutura escalável em React + TypeScript
+- ✅ Build otimizada com Vite
+
+---
+
+## 📂 Estrutura do Projeto
+
+```bash
+blobmaker-clone/
+├── src/
+│   ├── lib/
+│   ├── App.tsx
+│   ├── main.tsx
+│   └── index.css
+├── components/
+│   └── ui/
+├── lib/
+├── public/
+├── package.json
+├── vite.config.ts
+├── tsconfig.json
+└── README.md
+```
+
+---
+
+
+## 📊 Resultados e Aprendizados
+
+O desenvolvimento do projeto proporcionou experiência prática em:
+
+- ⚛️ Desenvolvimento moderno com React
+- 🧠 Estruturação de aplicações em TypeScript
+- 🎨 Criação de interfaces animadas
+- 📱 Design responsivo
+- 🧩 Componentização reutilizável
+- ⚡ Otimização de performance front-end
+
+Além disso, o projeto fortaleceu conhecimentos relacionados à arquitetura de aplicações SPA modernas e integração entre bibliotecas de UI e animação.
+
+---
+
+## 🔐 Boas Práticas Aplicadas
+
+- Organização modular de componentes
+- Uso de tipagem forte com TypeScript
+- Separação de responsabilidades
+- Estrutura escalável
+- Padronização de código
+- Componentes reutilizáveis
+
+---
+
+## 📌 Melhorias Futuras
+
+- [ ] Exportação dos blobs em SVG
+- [ ] Sistema de presets salvos
+- [ ] Customização avançada de animações
+- [ ] Tema Dark Mode
+- [ ] Biblioteca compartilhada de modelos
+- [ ] Integração com IA para geração automática
+
+---
+
+---
+
+[⬆ Voltar ao topo](#-blobmaker-clone)
