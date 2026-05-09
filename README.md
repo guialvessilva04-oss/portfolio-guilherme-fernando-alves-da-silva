@@ -37,9 +37,9 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistema na U
 ### 📂 Portfólio de Projetos
  
 #### 🤖 Inteligência Artificial
-| MorphLab | Gerador de Formas SVG |  |
+| Teachable Machine | Laboratório de Classificação Visual |  |
 | :--- | :--- | :---: |
-| **MVP+ Gerador de SVG** | Webapp para criação de Formas SVG customizadas. | [Ver Projeto](./projeto-mvp-svg/) |
+| **Laboratório de Classificação Visual** |  | [Ver Projeto](./projeto-mvp-svg/) |
  
 ---
  
