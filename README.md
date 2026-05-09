@@ -36,15 +36,10 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistema na U
  
 ### 📂 Portfólio de Projetos
  
-#### 🗃️ Modelagem de Banco de Dados
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| *Sistema de Gestão Escolar* | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
- 
 #### 🤖 Inteligência Artificial
-| Projeto | Descrição | Link |
+| MorphLab | Gerador de Formas SVG |  |
 | :--- | :--- | :---: |
-| *Predição de Churn* | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
+| **MVP+ Gerador de SVG** | Webapp para criação de Formas SVG customizadas. | [Ver Projeto](./projeto-mvp-svg/) |
  
 ---
  
