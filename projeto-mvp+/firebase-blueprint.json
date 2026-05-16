@@ -1,0 +1,30 @@
+{
+  "entities": {
+    "Blob": {
+      "title": "Blob",
+      "description": "A saved organic shape configuration",
+      "type": "object",
+      "properties": {
+        "points": { "type": "number" },
+        "complexity": { "type": "number" },
+        "blur": { "type": "number" },
+        "seed": { "type": "number" },
+        "color1": { "type": "string" },
+        "color2": { "type": "string" },
+        "gradient": { "type": "boolean" },
+        "angle": { "type": "number" },
+        "animate": { "type": "boolean" },
+        "motionType": { "type": "string" },
+        "motionSpeed": { "type": "number" },
+        "createdAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["seed", "color1", "createdAt"]
+    }
+  },
+  "firestore": {
+    "/users/{userId}/saved_blobs/{blobId}": {
+      "schema": "Blob",
+      "description": "User's saved blob configurations"
+    }
+  }
+}

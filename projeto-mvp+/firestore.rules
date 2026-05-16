@@ -1,0 +1,33 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Default deny
+    match /{document=**} {
+      allow read, write: if false;
+    }
+
+    // Helper functions
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    function isOwner(userId) {
+      return isSignedIn() && request.auth.uid == userId;
+    }
+
+    function isValidBlob(data) {
+      return data.size() >= 3 &&
+             data.seed is number &&
+             data.color1 is string &&
+             data.color1.size() <= 10 &&
+             data.createdAt is string;
+    }
+
+    match /users/{userId}/saved_blobs/{blobId} {
+      allow list, get: if isOwner(userId);
+      allow create: if isOwner(userId) && isValidBlob(request.resource.data);
+      allow update: if isOwner(userId) && isValidBlob(request.resource.data) && (request.resource.data.diff(resource.data).affectedKeys().hasOnly(['color1', 'color2', 'points', 'complexity', 'blur', 'angle', 'animate', 'motionType', 'motionSpeed']));
+      allow delete: if isOwner(userId);
+    }
+  }
+}
