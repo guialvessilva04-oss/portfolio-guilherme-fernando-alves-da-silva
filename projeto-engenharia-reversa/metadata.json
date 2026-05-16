@@ -1,0 +1,5 @@
+{
+  "name": "Blobmaker Clone",
+  "description": "A tool to generate organic SVG shapes (blobs) with customizable complexity, contrast, and color.",
+  "requestFramePermissions": []
+}

@@ -1,116 +1,20 @@
-# 🎨 BlobMaker Clone
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
 
-## 📝 Descrição do Projeto
+# Run and deploy your AI Studio app
 
-O **BlobMaker Clone** é uma aplicação web interativa desenvolvida para criação e personalização de formas orgânicas animadas (blobs) utilizadas em interfaces modernas, landing pages e projetos de design digital.
+This contains everything you need to run your app locally.
 
-O sistema permite gerar blobs dinâmicos com diferentes formatos, animações e estilos visuais, oferecendo uma experiência criativa e intuitiva para designers e desenvolvedores front-end.
+View your app in AI Studio: https://ai.studio/apps/222b1208-db0b-424a-8ab1-38aa4d69ece6
 
-Desenvolvido utilizando tecnologias modernas do ecossistema React, o projeto possui foco em:
+## Run Locally
 
-- 🎨 Experiência visual moderna
-- ⚡ Alta performance de renderização
-- 📱 Responsividade
-- 🧩 Componentização reutilizável
-- 🚀 Desenvolvimento rápido com Vite
-- 🎭 Interfaces animadas e fluidas
-
-O projeto também explora conceitos de animação, manipulação visual e construção de interfaces interativas utilizando bibliotecas modernas do JavaScript/TypeScript.
-
-## 🚀 Tecnologias Utilizadas
-
-- Google AI Studio
-
-### 🖥️ Front-end
-- **React 19**
-- **TypeScript**
-- **Vite**
-
-### 🎨 Estilização e UI
-- **Tailwind CSS**
-- **Shadcn/UI**
-- **Lucide React**
-- **Motion**
-
-### 🧰 Utilitários e Ferramentas
-- **Canvas Confetti**
-- **Class Variance Authority**
-- **Clsx**
-- **Tailwind Merge**
-
----
-
-## ⚙️ Funcionalidades
-
-- ✅ Geração dinâmica de blobs
-- ✅ Personalização visual das formas
-- ✅ Interface responsiva
-- ✅ Componentização moderna
-- ✅ Animações fluidas
-- ✅ Estrutura escalável em React + TypeScript
-- ✅ Build otimizada com Vite
-
----
-
-## 📂 Estrutura do Projeto
-
-```bash
-blobmaker-clone/
-├── src/
-│   ├── lib/
-│   ├── App.tsx
-│   ├── main.tsx
-│   └── index.css
-├── components/
-│   └── ui/
-├── lib/
-├── public/
-├── package.json
-├── vite.config.ts
-├── tsconfig.json
-└── README.md
-```
-
----
+**Prerequisites:**  Node.js
 
 
-## 📊 Resultados e Aprendizados
-
-O desenvolvimento do projeto proporcionou experiência prática em:
-
-- ⚛️ Desenvolvimento moderno com React
-- 🧠 Estruturação de aplicações em TypeScript
-- 🎨 Criação de interfaces animadas
-- 📱 Design responsivo
-- 🧩 Componentização reutilizável
-- ⚡ Otimização de performance front-end
-
-Além disso, o projeto fortaleceu conhecimentos relacionados à arquitetura de aplicações SPA modernas e integração entre bibliotecas de UI e animação.
-
----
-
-## 🔐 Boas Práticas Aplicadas
-
-- Organização modular de componentes
-- Uso de tipagem forte com TypeScript
-- Separação de responsabilidades
-- Estrutura escalável
-- Padronização de código
-- Componentes reutilizáveis
-
----
-
-## 📌 Melhorias Futuras
-
-- [ ] Exportação dos blobs em SVG
-- [ ] Sistema de presets salvos
-- [ ] Customização avançada de animações
-- [ ] Tema Dark Mode
-- [ ] Biblioteca compartilhada de modelos
-- [ ] Integração com IA para geração automática
-
----
-
----
-
-[⬆ Voltar ao topo](#-blobmaker-clone)
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
